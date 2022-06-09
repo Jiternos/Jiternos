@@ -1,6 +1,6 @@
 <h2 align="center"> Hello, World! </h2>
 
-- Contacts: [Discord](https://discord.com/users/185604754947178496) or [Twitter](https://twitter.com/jiternos)
+- Contacts: [Discord](https://discord.com/users/185604754947178496)
 - Portfolio: [Linkedin](https://www.linkedin.com/in/kenzi-s-7322a91b5/) 
 
 <p align = "center">

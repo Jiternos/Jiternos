@@ -1,6 +1,7 @@
 <h2 align="center"> Hello, World! </h2>
 
-- Contacts: [Discord](https://discord.com/users/185604754947178496)
+- Email: 
+- Contacts: [Discord](https://discord.com/users/185604754947178496), <a href="mailto:github.4jrk8@simplelogin.com">Email</a>  
 - Portfolio: [Linkedin](https://www.linkedin.com/in/kenzi-s-7322a91b5/) 
 
 <p align = "center">
